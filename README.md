@@ -1,17 +1,15 @@
-- 👋 Hi, I’m @bazookabomb
-  - 
+## 👋 Hi, I’m **@bazookabomb** 
 - 👀 I’m interested in ...
   - reading, computer science, going for a walk
 - 🌱 I’m currently learning ...
   - Git, GitHub, Python
 - 💞️ I’m looking to collaborate on ...
-  - beginners stuff
+  - beginner's stuff
 - 📫 How to reach me ...
-  - here in GitHub
-- 😄 Pronouns: ...
+  - here, on GitHub
 - ⚡ Fun fact: ...
-  - the cake is a lie
-
+  - *the cake is a lie*
+### Feel free to look aroud and explore 🚀✨
 <!---
 bazookabomb/bazookabomb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
